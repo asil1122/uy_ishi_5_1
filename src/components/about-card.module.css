@@ -1,0 +1,38 @@
+.block {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+
+.num {
+    border-radius: 39px;
+    background-color: #f3603c;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+    padding: 10px 23px;
+    position: absolute;
+    left: -87px;
+    top: -9px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    color: #242d52;
+    margin-bottom: 19px;
+}
+
+
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 162%;
+    color: #242d52;
+    width: 445px;
+
+}
