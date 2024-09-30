@@ -1,0 +1,34 @@
+.comment {
+    padding-top: 165px;
+}
+
+.block {
+    text-align: center;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+    letter-spacing: -0.02em;
+    color: #242d52;
+    margin-bottom: 95px;
+}
+
+.block_comment {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 53px;
+}
+
+.btn {
+    border-radius: 22px;
+    box-shadow: 0 15px 15px -10px #ff9f8e;
+    background-color: #f3603c;
+    padding: 12px 32px;
+    font-weight: 700;
+    font-size: 13px;
+    color: #fcf6f5;
+    border: none;
+}
